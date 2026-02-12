@@ -1,0 +1,29 @@
+{
+  "saldo": 20070000,
+  "transaksi": [
+    {
+      "tipe": "Pemasukan",
+      "keterangan": "Test Input",
+      "jumlah": 50000,
+      "tanggal": "12/02/2026 01:30"
+    },
+    {
+      "tipe": "Pemasukan",
+      "keterangan": "Test Input",
+      "jumlah": 50000,
+      "tanggal": "12/02/2026 01:30"
+    },
+    {
+      "tipe": "Pengeluaran",
+      "keterangan": "Test Pengeluaran",
+      "jumlah": 30000,
+      "tanggal": "12/02/2026 01:30"
+    },
+    {
+      "tipe": "Pemasukan",
+      "keterangan": "gaji bulanan ",
+      "jumlah": 20000000,
+      "tanggal": "12/02/2026 01:32"
+    }
+  ]
+}
